@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 10px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: rgb(133, 80, 80);
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #0c0c0c;
+  text-align: center;
+  cursor: pointer;
+  width: 40%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>Contact Us Page</h1>
+</div>
+
+<h2 style="text-align:center">Our Team</h2>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="image/arjun.jpeg" alt="Arjun" style="width:30%">
+      <div class="container">
+        <h2>Arjun</h2>
+        <p class="title">Back End</p>
+        <p>arjundon695@gmail.com</p>
+        <a href="https://www.google.com/gmail/about/" class="button">Contact</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="image/thangarasu.jpeg" alt="Thangarasu" style="width:30%">
+      <div class="container">
+        <h2>Thangarasu</h2>
+        <p class="title">Front End</p>
+        <p>rthangarasu030@gmail.com</p>
+        <a href="https://www.google.com/gmail/about/" class="button">Contact</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="image/vignesh.jpeg" alt="Vignesh" style="width:30%">
+      <div class="container">
+        <h2>Vignesh</h2>
+        <p>ravignesh2002@gmail.com</p>
+        <a href="https://www.google.com/gmail/about/" class="button">Contact</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="column">
+  <div class="card">
+    <img src="image/naveen.jpeg" alt="Naveenesh" style="width:30%">
+    <div class="container">
+      <h2>Naveenesh</h2>
+      <p class="title">Cloud service</p>
+      <p>naveenesh1996@gmail.com</p>
+      <a href="https://www.google.com/gmail/about/" class="button">Contact</a>
+    </div>
+  </div>
+</div>
+</div>
+
+</body>
+</html>
+
+
+

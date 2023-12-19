@@ -25,6 +25,15 @@ app.get("/chat", (req, res) => {
 });
 
 
+app.get("/Contact", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "Contact.html"));
+});
+
+app.get("/about", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "about.html"));
+});
+
+
 app.listen(app.get("port"), function () {
   console.log("Node app is running at localhost:" + app.get("port"));
 });
