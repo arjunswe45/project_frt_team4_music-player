@@ -9,7 +9,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 
 
-app.set("port", process.env.PORT || 5000);
+app.set("port", process.env.PORT || 5004);
 
 // Home page
 app.get("/", (req, res) => {
@@ -19,23 +19,6 @@ app.get("/", (req, res) => {
 app.get("/music", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "home.html"));
 });
-
-
-app.get("/Contact", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "Contact.html"));
-});
-
-
-app.get("/Chat", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "Chat.html"));
-});
-
-
-app.get("/About", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "About.html"));
-});
-
-
 app.listen(app.get("port"), function () {
   console.log("Node app is running at localhost:" + app.get("port"));
 });
