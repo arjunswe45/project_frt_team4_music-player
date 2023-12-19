@@ -45,6 +45,20 @@ Monitoring: Implementing monitoring solutions in Azure for tracking application 
 Azure Bot Services: Leveraging Azure Bot Services for incorporating chatbot functionalities within the application.
 
 ## screenshort 
+![1](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/c5545e6e-6490-4320-9431-a3a1fc1313d9)
+![2](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/b6f9481d-0bea-489b-894d-bbb89be77703)
+![3](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/613d8f01-0bdc-48d5-bd5d-e5e49f1eedb7)
+![4](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/df866035-dd48-4cd2-88ef-5f874ab4b57d)
+![5](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/30b4633f-2ee5-44eb-865e-c3c1e6584f3e)
+![6](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/87f32d9c-c593-4347-bea0-35b0b6a29122)
+![7](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/b0b0c775-a553-4a5b-9e4a-8f4f65cfe79a)
+![8](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/2bde4358-2a91-44c8-bff5-b0d7452441f4)
+
+![9](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/46112afb-5a6b-4a94-bc51-da4741631c1d)
+![10](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/b96ea8f4-6afc-462a-8eb9-a8e40a071f7f)
+![11](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/f3a1c6bd-1f7d-496b-9f69-6d6b118e449d)
+![12](https://github.com/arjunswe45/project_frt_team4_music-player/assets/148434667/399eb61e-36c4-4962-a255-2ccfed31aa8a)
+
 
 ## video url
 
