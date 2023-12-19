@@ -4,7 +4,8 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "@azure/storage-blob": "^12.17.0",
@@ -19,16 +20,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/arjunswe45/project_frt_team4_music-player.git"
   },
   "keywords": [
     "node",
-    "heroku",
+    "azure",
     "express"
   ],
-  "author": "Mark Pundsack",
+  "author": "Thangarasu",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "ravignesh2002@gmail.com",
+    "rthangarasu030@gmail.com",
+    "arjundon695@gmail.com",
+    "naveenesh1996@gmail.com"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
