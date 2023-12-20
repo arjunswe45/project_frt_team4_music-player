@@ -61,7 +61,8 @@ Azure Bot Services: Leveraging Azure Bot Services for incorporating chatbot func
 
 
 ## video url
-
+https://www.youtube.com/watch?v=t3wlVtoMmqc
 
 ## demo url
+https://musicplayerwebapp.azurewebsites.net/
 
