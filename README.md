@@ -1,5 +1,6 @@
 # project_frt_team4_music-player
-
+## 1.Industry Type  - Lifestyle
+## 2.Project Title -magic bus music player
 
 ## Project Overview:
 Project Name: Magic Bus Music Player App
